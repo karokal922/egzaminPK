@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>exam_data/pk_questions.json</file>
+        <file>exam_data/ppk_questions.json</file>
+        <file>exam_data/students.json</file>
+    </qresource>
+</RCC>
